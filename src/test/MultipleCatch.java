@@ -17,7 +17,7 @@ public class MultipleCatch {
 			System.out.println("Catch block due to unnown");
 		}
 		
-		System.out.println("After TRY Catch !");
+		System.out.println("After TRY Catch ! ! !");
 		
 		
 		
